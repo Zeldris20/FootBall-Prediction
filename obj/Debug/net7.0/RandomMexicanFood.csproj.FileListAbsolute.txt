@@ -1,0 +1,17 @@
+C:\Users\ZeldrisOW\Documents\git\RandomMexicanFood\bin\Debug\net7.0\RandomMexicanFood.exe
+C:\Users\ZeldrisOW\Documents\git\RandomMexicanFood\bin\Debug\net7.0\RandomMexicanFood.deps.json
+C:\Users\ZeldrisOW\Documents\git\RandomMexicanFood\bin\Debug\net7.0\RandomMexicanFood.runtimeconfig.json
+C:\Users\ZeldrisOW\Documents\git\RandomMexicanFood\bin\Debug\net7.0\RandomMexicanFood.dll
+C:\Users\ZeldrisOW\Documents\git\RandomMexicanFood\bin\Debug\net7.0\RandomMexicanFood.pdb
+C:\Users\ZeldrisOW\Documents\git\RandomMexicanFood\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ZeldrisOW\Documents\git\RandomMexicanFood\obj\Debug\net7.0\RandomMexicanFood.csproj.AssemblyReference.cache
+C:\Users\ZeldrisOW\Documents\git\RandomMexicanFood\obj\Debug\net7.0\RandomMexicanFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZeldrisOW\Documents\git\RandomMexicanFood\obj\Debug\net7.0\RandomMexicanFood.AssemblyInfoInputs.cache
+C:\Users\ZeldrisOW\Documents\git\RandomMexicanFood\obj\Debug\net7.0\RandomMexicanFood.AssemblyInfo.cs
+C:\Users\ZeldrisOW\Documents\git\RandomMexicanFood\obj\Debug\net7.0\RandomMexicanFood.csproj.CoreCompileInputs.cache
+C:\Users\ZeldrisOW\Documents\git\RandomMexicanFood\obj\Debug\net7.0\RandomMexicanFood.csproj.CopyComplete
+C:\Users\ZeldrisOW\Documents\git\RandomMexicanFood\obj\Debug\net7.0\RandomMexicanFood.dll
+C:\Users\ZeldrisOW\Documents\git\RandomMexicanFood\obj\Debug\net7.0\refint\RandomMexicanFood.dll
+C:\Users\ZeldrisOW\Documents\git\RandomMexicanFood\obj\Debug\net7.0\RandomMexicanFood.pdb
+C:\Users\ZeldrisOW\Documents\git\RandomMexicanFood\obj\Debug\net7.0\RandomMexicanFood.genruntimeconfig.cache
+C:\Users\ZeldrisOW\Documents\git\RandomMexicanFood\obj\Debug\net7.0\ref\RandomMexicanFood.dll
